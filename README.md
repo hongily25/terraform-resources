@@ -1,4 +1,4 @@
-# terraform-resources
+# Terraform Resources
 A collection of Terraform resources
 
 https://medium.com/spaceapetech/creating-a-terraform-provider-part-1-ed12884e06d7
