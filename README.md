@@ -9,4 +9,5 @@ Creating a Terraform Provider
 `Terraform Plugins are binaries that Terraform communicates with via RPC.`
 
 - All providers start with terraform-provider-
+- Entry point is `main.go`
 
