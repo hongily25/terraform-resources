@@ -10,4 +10,9 @@ Creating a Terraform Provider
 
 - All providers start with terraform-provider-
 - Entry point is `main.go`
+- Create a `provider` package in `provider.go` and define `func Provider() terraform.ResourceProvider` function
 
+There are 3 things the provider requires:
+1. Schema
+2. ResourcesMap
+3. ConfigureFunc
