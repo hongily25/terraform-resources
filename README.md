@@ -14,5 +14,5 @@ Creating a Terraform Provider
 
 There are 3 things the provider requires:
 1. Schema: attributes
-2. ResourcesMap
-3. ConfigureFunc
+2. ResourcesMap: defines resoure names
+3. ConfigureFunc: any setup
