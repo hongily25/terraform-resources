@@ -16,3 +16,6 @@ There are 3 things the provider requires:
 1. Schema: attributes
 2. ResourcesMap: defines resoure names
 3. ConfigureFunc: any setup
+
+Naming Conventions
+- `resource_[resourceName].go`
