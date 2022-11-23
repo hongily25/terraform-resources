@@ -19,3 +19,8 @@ There are 3 things the provider requires:
 
 Naming Conventions
 - `resource_[resourceName].go`
+- `resource_[resourceName]_test`
+- `import_[resourceName]_test.go`
+- `data_source_[resourceName].go`
+
+Create `resource_item.go` which returns `*schema.Resource`
